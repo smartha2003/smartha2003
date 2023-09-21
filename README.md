@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">🙎🏽‍♀️ About Me:</h3>
 
-- 🔭 I’m currently working on a personal portfolio website
+- 🔭 I’m currently working on **a personal portfolio website** and **honing fullstack development skills!**
 
-- 🌱 I’m currently learning **NodeJS.**
+- 🌱 I’m currently learning **ReactJS** and **Data Analysis with R**
 
-- 🤝 I’m looking for help with **resumes and applying to internships!**
+- 🤝 I’m looking for help with **advice on resume and applying to internships!**
 
-- 💬 Ask me about **ReactJS, React Native, and Git.**
+- 💬 Ask me about **C++, ReactJS, React Native, and Git.**
   
 <br/>
 
