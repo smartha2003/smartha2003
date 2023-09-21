@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<IMG SRC="https://media.giphy.com/media/X7NBev9zI0i2s/giphy.gif" alt="intro">.
 
 <h1 align="center" color="blue">Hi 👋, I'm Shubhada Martha</h1>
 <br/>
