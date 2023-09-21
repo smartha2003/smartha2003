@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1> I am Shubhada Martha!</h1>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/clips/baby-cartoon-calm-C2xMVZ1lAU4MHbCRlD)">
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/C2xMVZ1lAU4MHbCRlD/video" width="480"></iframe></div>
 <!--
 **smartha2003/smartha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
