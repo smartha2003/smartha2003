@@ -1,14 +1,14 @@
 <h1 align="center" color="blue">Hi 👋, I'm Shubhada Martha</h1>
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🙎🏽‍♀️ About Me:</h3>
 - 🔭 I’m currently working on **a personal portfolio website**
 
 - 🌱 I’m currently learning **NodeJS.**
 
 - 🤝 I’m looking for help with **resumes and applying to internships!**
 
-- 💬 Ask me about **ReactJS, React Native and Git.**
+- 💬 Ask me about **ReactJS, React Native, and Git.**
   
 <br/>
 
