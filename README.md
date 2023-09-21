@@ -1,5 +1,7 @@
 <h1 align="center" color="blue">Hi 👋, I'm Shubhada Martha</h1>
+<br/>
 
+<h3 align="left">Languages and Tools:</h3>
 - 🔭 I’m currently working on **a personal portfolio website**
 
 - 🌱 I’m currently learning **NodeJS.**
