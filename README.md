@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--https://media.giphy.com/media/X7NBev9zI0i2s/giphy.gif-->
-<img align="center" SRC="https://media.giphy.com/media/X7NBev9zI0i2s/giphy.gif" alt="intro">
+<!-- <img align="center" SRC="https://media.giphy.com/media/X7NBev9zI0i2s/giphy.gif" alt="intro"> -->
 
 <h1 align="center" >Hi 👋, I'm Shubhada Martha</h1>
 <br/>
