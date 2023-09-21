@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <br/>
 
 <h3 align="left">🙎🏽‍♀️ About Me:</h3>
-- 🔭 I’m currently working on **a personal portfolio website**
+
+- 🔭 I’m currently working on a personal portfolio website
 
 - 🌱 I’m currently learning **NodeJS.**
 
