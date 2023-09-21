@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhada Martha</h1>
+<h1 align="center" color="blue">Hi 👋, I'm Shubhada Martha</h1>
 
 - 🔭 I’m currently working on **a personal portfolio website**
 
