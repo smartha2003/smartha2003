@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a personal portfolio website** and **honing fullstack development skills!**
 
-- 🌱 I’m currently learning **ReactJS** and **Data Analysis with R**
+- 🌱 I’m learning **Swift** and **React Native** under mobile app development.
 
 - 🤝 I’m looking for help with **advice on resume and applying to internships!**
 
-- 💬 Ask me about **C++, ReactJS, React Native, and Git.**
+- 💬 Ask me about **C++, Swift, ReactJS, React Native, and Git.**
   
 <br/>
 
