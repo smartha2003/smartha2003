@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m learning **Swift** and **React Native** under mobile app development.
 
-- 🤝 I’m looking for help with **advice on resume and applying to internships!**
+- 🤝 I’m looking for help with **advice on resume and applying to internships/ new grad roles!**
 
 - 💬 Ask me about **C++, Swift, ReactJS, React Native, and Git.**
   
