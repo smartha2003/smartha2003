@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">🙎🏽‍♀️ About Me:</h3>
 
-- 🔭 I’m currently working on **a personal portfolio website** and **honing fullstack development skills!**
+🔭 I recently completed my personal portfolio website! Check it out here: https://smartha2003.github.io/portfolio/
 
-- 🌱 I’m learning **Swift** and **React Native** under mobile app development.
+🌱 I’m currently exploring AI/ML with a focus on Computer Vision, integrated with mobile application development.
 
-- 🤝 I’m looking for help with **advice on resume and applying to internships/ new grad roles!**
+🤝 I’m looking for opportunities and advice on applying to internships and new-grad full-time roles.
 
-- 💬 Ask me about **C++, Swift, ReactJS, React Native, Microsoft Azure, and Git.**
+💬 Ask me about C++, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git—I’m always happy to share what I know!
   
 <br/>
 
