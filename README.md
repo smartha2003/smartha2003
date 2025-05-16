@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 🔭 My personal portfolio website: → [Check it out here](https://smartha2003.github.io/portfolio/)
 
-🧠 Currently building AI-powered comparison tools using agentic search, LangChain, and structured document reasoning — enabling dynamic tables and context-aware chat.
+🧠 Currently building AI-powered comparison tools using agentic search, LangChain, and structured document reasoning.
 
 🌱 Actively exploring how to combine AI, thoughtful UI, and real-world impact in full-stack and mobile apps.
 
 🤝 I’m looking for new grad opportunities and open to collaboration on impactful tech projects.
 
-💬 Ask me about C++, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git — always happy to share what I know!
+💬 Ask me about C++, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git. Always happy to share what I know!
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shubhada-martha/) | shubhadam2003@gmail.com
 
