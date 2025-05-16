@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🙎🏽‍♀️ About Me:</h3>
 
-🔭 I recently launched my personal portfolio website! → [Check it out here](https://smartha2003.github.io/portfolio/)
+🔭 My personal portfolio website: → [Check it out here](https://smartha2003.github.io/portfolio/)
 
 🧠 Currently building AI-powered comparison tools using agentic search, LangChain, and structured document reasoning — enabling dynamic tables and context-aware chat.
 
