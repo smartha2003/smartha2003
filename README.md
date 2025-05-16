@@ -15,19 +15,23 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" SRC="https://media.giphy.com/media/X7NBev9zI0i2s/giphy.gif" alt="intro"> -->
 
-<h1 align="center" >Hi 👋, I'm Shubhada Martha</h1>
+<h1 align="center">Hi 👋, I'm Shubhada Martha</h1>
 <br/>
 
 <h3 align="left">🙎🏽‍♀️ About Me:</h3>
 
-🔭 I recently completed my personal portfolio website! Check it out here: https://smartha2003.github.io/portfolio/
+🔭 I recently launched my personal portfolio website! → [Check it out here](https://smartha2003.github.io/portfolio/)
 
-🌱 I’m currently exploring AI/ML with a focus on Computer Vision, integrated with mobile application development.
+🧠 Currently building AI-powered comparison tools using agentic search, LangChain, and structured document reasoning — enabling dynamic tables and context-aware chat.
 
-🤝 I’m looking for opportunities and advice on applying to internships and new-grad full-time roles.
+🌱 Actively exploring how to combine AI, thoughtful UI, and real-world impact in full-stack and mobile apps.
 
-💬 Ask me about C++, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git—I’m always happy to share what I know!
-  
+🤝 I’m looking for new grad opportunities and open to collaboration on impactful tech projects.
+
+💬 Ask me about C++, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git — always happy to share what I know!
+
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/shubhada-martha/) | shubhadam2003@gmail.com
+
 <br/>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
