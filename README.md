@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🤝 I’m looking for new grad opportunities and open to collaboration on impactful tech projects.
 
-💬 Ask me about C++, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git. Always happy to share what I know!
+💬 Ask me about C++, Python, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git. Always happy to share what I know!
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shubhada-martha/) | shubhadam2003@gmail.com
 
