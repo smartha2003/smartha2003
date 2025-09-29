@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">🙎🏽‍♀️ About Me:</h3>
 
-🔭 My personal portfolio website: → [Check it out here](https://smartha2003.github.io/portfolio/)
-
-🧠 Currently building AI-powered comparison tools using agentic search, LangChain, and structured document reasoning.
-
-🌱 Actively exploring how to combine AI, thoughtful UI, and real-world impact in full-stack and mobile apps.
-
-🤝 I’m looking for new grad opportunities and open to collaboration on impactful tech projects.
-
-💬 Ask me about C++, Python, Swift, ReactJS, TypeScript, React Native, Microsoft Azure, and Git. Always happy to share what I know!
-
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/shubhada-martha/) | shubhadam2003@gmail.com
+- 🚀 Applied AI/ML Researcher @ UC Davis EpiCenter — building WildAlert anomaly-detection APIs (Isolation Forests, Autoencoders) and shipping practical data tools (Gradio/HF Spaces).
+- 🧪 Founding Full-Stack Engineer (ASEEC Lab): agentic RAG for FDA 510(k) compliance with LangGraph/LangChain, FastAPI, and PostgreSQL.
+- 🏆 HackDavis 2025 “Best Use of Auth0” — Aggie Pantry (React, Django, TensorFlow.js; CV checkout + AI recipe bot).
+- 🧠 I care about human-centered, privacy-first AI and turning messy data into calm, useful products.
+- 🔭 Portfolio → <a href="https://smartha2003.github.io/portfolio/" target="_blank">smartha2003.github.io/portfolio</a>
+- 💬 Ask me about Python, C++, TypeScript/React, Swift/SwiftUI, FastAPI, Django, LangChain/LangGraph, Azure, PostgreSQL.
+- 📫 Reach me: <a href="https://linkedin.com/in/shubhada-martha/" target="_blank">LinkedIn</a> • shubhadam2003@gmail.com
 
 <br/>
 
