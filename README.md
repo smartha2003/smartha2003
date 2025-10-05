@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🏆 HackDavis 2025 “Best Use of Auth0” — Aggie Pantry (React, Django, TensorFlow.js; CV checkout + AI recipe bot).
 - 🧠 I care about human-centered, privacy-first AI and turning messy data into calm, useful products.
 - 🔭 Portfolio → <a href="https://smartha2003.github.io/portfolio/" target="_blank">smartha2003.github.io/portfolio</a>
-- 💬 Ask me about Python, C++, TypeScript/React, Swift/SwiftUI, FastAPI, Django, LangChain/LangGraph, Azure, PostgreSQL.
+- 💬 Ask me about Python, TypeScript/React, Swift/SwiftUI, FastAPI, LangChain/LangGraph/LangSmith, AWS, PostgreSQL.
 - 📫 Reach me: <a href="https://linkedin.com/in/shubhada-martha/" target="_blank">LinkedIn</a> • shubhadam2003@gmail.com
 
 <br/>
